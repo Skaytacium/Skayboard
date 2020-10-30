@@ -2,4 +2,4 @@
 
 ## Custom layout and 5 macro keys
 
-### 2 Windows keys are for losers
+### Expect finished project by mid December
