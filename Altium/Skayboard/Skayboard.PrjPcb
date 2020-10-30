@@ -64,7 +64,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FVGAHEAU
 
 [Document3]
-DocumentPath=..\..\..\..\..\..\ProgramData\Altium\Altium Designer {C476A12F-B214-4C2B-81B5-95E338E2F99E}\VaultEditCache\42EBF403-5CAF-4D5D-971A-4554576CD24E\Released\1.SchLib
+DocumentPath=SkayboardRev2.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,10 +89,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VSNAVABM
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\..\ProgramData\Altium\Altium Designer {C476A12F-B214-4C2B-81B5-95E338E2F99E}\VaultEditCache\42EBF403-5CAF-4D5D-971A-4554576CD24E\Released\1.PcbLib
+DocumentPath=Skayboard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UJRVSPMW
+DocumentUniqueId=ZHDLAUBF
+
+[Document5]
+DocumentPath=Skayboard.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TSYNEBXP
 
 [Configuration1]
 Name=Sources
