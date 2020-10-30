@@ -1,3 +1,3 @@
 @ECHO OFF
-git pull https://github.com/Skaytacium/Skumpad main
+git pull --allow-unrelated-histories
 PAUSE
