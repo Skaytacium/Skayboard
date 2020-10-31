@@ -74,7 +74,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVGAHEAU
 
-<<<<<<< HEAD:Altium/Skayboard/Skayboard.PrjPcb
 [Document3]
 DocumentPath=SkayboardRev2.BomDoc
 AnnotationEnabled=1
@@ -126,8 +125,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSYNEBXP
 
-=======
->>>>>>> 0eeeb49e845f959f79719b66a39ad69d2ef12cfc:Altium/Skayboard/Old/Skayboard.PrjPcb
 [Configuration1]
 Name=Sources
 ParameterCount=0
