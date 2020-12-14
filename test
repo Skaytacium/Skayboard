@@ -1,0 +1,147 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.000  000.000: --- VIM STARTING ---
+000.000  000.000: Allocated generic buffers
+007.000  007.000: locale set
+007.000  000.000: clipboard setup
+007.000  000.000: window checked
+008.000  001.000: inits 1
+076.000  068.000: parsing arguments
+076.000  000.000: expanding arguments
+077.000  001.000: shell init
+078.000  001.000: Termcap init
+078.000  000.000: inits 2
+078.000  000.000: init highlight
+084.000  004.000  004.000: sourcing C:\Users\Sid K\vimfiles\autoload\plug.vim
+104.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\tern_for_vim\ftdetect\tern.vim
+105.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-fugitive\ftdetect\fugitive.vim
+106.000  013.000  013.000: sourcing C:\Program Files (x86)\Vim\vim82\filetype.vim
+107.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\ftplugin.vim
+108.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\indent.vim
+115.000  003.000  003.000: sourcing C:\Program Files (x86)\Vim\vim82\syntax\syncolor.vim
+115.000  004.000  001.000: sourcing C:\Program Files (x86)\Vim\vim82\syntax\synload.vim
+115.000  006.000  002.000: sourcing C:\Program Files (x86)\Vim\vim82\syntax\syntax.vim
+115.000  036.000  013.000: sourcing $HOME\_vimrc
+115.000  001.000: sourcing vimrc file(s)
+121.000  003.000  003.000: sourcing C:\Users\Sid K\.vim\plugged\emmet-vim\plugin\emmet.vim
+124.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\ctrlp.vim\autoload\ctrlp\mrufiles.vim
+125.000  002.000  002.000: sourcing C:\Users\Sid K\.vim\plugged\ctrlp.vim\plugin\ctrlp.vim
+127.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\tagbar\plugin\tagbar.vim
+130.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\autoload\gitgutter\utility.vim
+185.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\autoload\gitgutter\highlight.vim
+187.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\autoload\gitgutter\async.vim
+188.000  059.000  058.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\plugin\gitgutter.vim
+193.000  003.000  003.000: sourcing C:\Users\Sid K\.vim\plugged\vim-fugitive\plugin\fugitive.vim
+195.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-surround\plugin\surround.vim
+198.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\autoload\nerdtree.vim
+201.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\path.vim
+203.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\menu_controller.vim
+204.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\menu_item.vim
+206.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\key_map.vim
+209.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\bookmark.vim
+212.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\tree_file_node.vim
+214.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\tree_dir_node.vim
+216.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\opener.vim
+217.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\creator.vim
+219.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\flag_set.vim
+221.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\nerdtree.vim
+222.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\ui.vim
+224.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\event.vim
+225.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\lib\nerdtree\notifier.vim
+227.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\autoload\nerdtree\ui_glue.vim
+233.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\nerdtree_plugin\exec_menuitem.vim
+268.000  034.000  034.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\nerdtree_plugin\fs_menu.vim
+269.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\nerdtree_plugin\vcs.vim
+270.000  074.000  033.000: sourcing C:\Users\Sid K\.vim\plugged\nerdtree\plugin\NERD_tree.vim
+275.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\autoloclist.vim
+275.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\balloons.vim
+276.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\checker.vim
+277.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\cursor.vim
+277.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\highlighting.vim
+278.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\loclist.vim
+279.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\modemap.vim
+279.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\notifiers.vim
+280.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\registry.vim
+281.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\signs.vim
+283.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\autoload\syntastic\util.vim
+287.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\autoloclist.vim
+288.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\balloons.vim
+289.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\checker.vim
+290.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\cursor.vim
+291.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\highlighting.vim
+292.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\loclist.vim
+293.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\modemap.vim
+294.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\notifiers.vim
+296.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\registry.vim
+297.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic\signs.vim
+298.000  017.000  011.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\plugin\syntastic.vim
+302.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\init.vim
+304.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\parts.vim
+305.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\formatter\short_path.vim
+309.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\util.vim
+309.000  009.000  008.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\plugin\airline.vim
+310.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline-themes\plugin\airline-themes.vim
+315.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\getscriptPlugin.vim
+316.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\gzip.vim
+317.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\logiPat.vim
+318.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\manpager.vim
+319.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\matchparen.vim
+321.000  001.000  001.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\netrwPlugin.vim
+322.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\rrhelper.vim
+323.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\spellfile.vim
+324.000  001.000  001.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\tarPlugin.vim
+325.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\tohtml.vim
+326.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\vimballPlugin.vim
+327.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\plugin\zipPlugin.vim
+327.000  041.000: loading plugins
+331.000  000.000  000.000: sourcing C:\Program Files (x86)\Vim\vim82\filetype.vim
+331.000  002.000  002.000: sourcing C:\Users\Sid K\vimfiles\pack\kite\start\vim-plugin\plugin\kite.vim
+332.000  003.000: loading packages
+332.000  000.000: loading after plugins
+332.000  000.000: inits 3
+333.000  001.000: reading viminfo
+333.000  000.000: setting raw mode
+335.000  002.000: start termcap
+335.000  000.000: clearing screen
+340.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\syntastic\autoload\syntastic\log.vim
+342.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions.vim
+343.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\quickfix.vim
+345.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline.vim
+347.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\netrw.vim
+351.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\section.vim
+353.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\highlighter.vim
+354.000  004.000  004.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\term.vim
+356.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\ctrlp.vim
+357.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\hunks.vim
+359.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\tagbar.vim
+361.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\branch.vim
+363.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\fugitiveline.vim
+364.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\syntastic.vim
+366.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\whitespace.vim
+371.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\po.vim
+372.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\wordcount.vim
+375.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\keymap.vim
+419.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\themes.vim
+419.000  002.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\themes\dark.vim
+450.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\builder.vim
+453.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-airline\autoload\airline\extensions\default.vim
+475.000  128.000: opening buffers
+476.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\autoload\gitgutter.vim
+561.000  080.000  080.000: sourcing C:\Users\Sid K\vimfiles\pack\kite\start\vim-plugin\autoload\kite\utils.vim
+561.000  081.000  001.000: sourcing C:\Users\Sid K\vimfiles\pack\kite\start\vim-plugin\autoload\kite.vim
+562.000  000.000  000.000: sourcing C:\Users\Sid K\vimfiles\pack\kite\start\vim-plugin\autoload\kite\languages.vim
+563.000  007.000: BufEnter autocommands
+563.000  000.000: editing files in windows
+565.000  000.000  000.000: sourcing C:\Users\Sid K\vimfiles\pack\kite\start\vim-plugin\autoload\kite\async.vim
+853.000  290.000: VimEnter autocommands
+853.000  000.000: before starting main loop
+881.000  008.000  008.000: sourcing C:\Users\Sid K\.vim\plugged\vim-fugitive\autoload\fugitive.vim
+892.000  008.000  008.000: sourcing C:\Users\Sid K\.vim\plugged\tagbar\autoload\tagbar.vim
+894.000  000.000  000.000: sourcing C:\Users\Sid K\.vim\plugged\tagbar\autoload\tagbar\debug.vim
+1202.000  001.000  001.000: sourcing C:\Users\Sid K\.vim\plugged\vim-gitgutter\autoload\gitgutter\hunk.vim
+1206.000  336.000: first screen update
+1206.000  000.000: --- VIM STARTED ---
