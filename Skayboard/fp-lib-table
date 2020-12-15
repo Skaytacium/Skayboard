@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Skayboard)(type KiCad)(uri ${KIPRJMOD}/Skayboard.pretty)(options "")(descr ""))
+  (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ${KIPRJMOD}/Switch_Keyboard-main/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
 )

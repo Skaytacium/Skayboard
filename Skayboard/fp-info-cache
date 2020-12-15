@@ -1,4 +1,4 @@
-18628456900154020
+18638082089734925
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56888,6 +56888,48 @@ mounting hole 8.4mm m8
 0
 9
 1
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_2u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_3u
+Cherry MX key stabilizer 3u
+Cherry MX key stabilizer 3u
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_6.25u
+Cherry MX key stabilizer 6.25u
+Cherry MX key stabilizer 6.25u
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_6u
+Cherry MX key stabilizer 6u
+Cherry MX key stabilizer 6u
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_7u
+Cherry MX key stabilizer 7u
+Cherry MX key stabilizer 7u
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_8u
+Cherry MX key stabilizer 8u 9u 10u
+Cherry MX key stabilizer 8u 9u 10u
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
