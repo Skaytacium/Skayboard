@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Skayboard)(type KiCad)(uri ${KIPRJMOD}/Skayboard.pretty)(options "")(descr ""))
+)
