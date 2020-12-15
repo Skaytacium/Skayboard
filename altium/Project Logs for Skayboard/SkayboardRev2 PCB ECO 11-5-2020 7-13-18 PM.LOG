@@ -1,8 +1,0 @@
-Added Component: Designator=1(MX_RGB_Normal)
-Added Pin To Net: NetName=VCC Pin=1-1
-Added Pin To Net: NetName=Net1_2 Pin=1-2
-Added Pin To Net: NetName=GND Pin=1-3
-Added Pin To Net: NetName=Net1_4 Pin=1-4
-Added Pin To Net: NetName=Net1_5 Pin=1-5
-Added Pin To Net: NetName=Net1_6 Pin=1-6
-Added Member To Class: ClassName=SkayboardRev2 Member=Component 1 Skey
