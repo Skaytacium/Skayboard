@@ -1,3 +1,3 @@
 @ECHO OFF
-git push origin kicad 
+git push origin main 
 PAUSE
