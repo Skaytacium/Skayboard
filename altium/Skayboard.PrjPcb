@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TSYNEBXP
 
 [Document3]
-DocumentPath=Rev3\SkayboardRev3.PcbDoc
+DocumentPath=Rev4\SkayboardRev4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YCGGYABU
 
 [Document4]
-DocumentPath=Rev3\SkayboardRev3.SchDoc
+DocumentPath=Rev4\SkayboardRev4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
