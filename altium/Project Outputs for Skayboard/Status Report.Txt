@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Skayboard.PrjPcb]
+   Generated File[SkayboardRev4.TXT]
+   Generated File[SkayboardRev4.LDP]
+   Generated File[SkayboardRev4.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:41:04 PM On 12/30/2020
