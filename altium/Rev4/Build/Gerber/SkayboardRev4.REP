@@ -23,6 +23,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : SkayboardRev4.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SkayboardRev4.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : SkayboardRev4.GBP
 
@@ -48,125 +75,6 @@ Used DCodes :
     D44
     D45
     D46
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : SkayboardRev4.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : SkayboardRev4.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : SkayboardRev4.GM3
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : SkayboardRev4.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : SkayboardRev4.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : SkayboardRev4.GM23
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SkayboardRev4.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : SkayboardRev4.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -208,6 +116,41 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Assembly
+      File : SkayboardRev4.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SkayboardRev4.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : SkayboardRev4.GTP
 
@@ -222,10 +165,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Courtyard
-      File : SkayboardRev4.GM21
+Generating : Top Overlay
+      File : SkayboardRev4.GTO
 
-    Adding Layer      : Bottom Courtyard
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : SkayboardRev4.GM23
+
+    Adding Layer      : Bottom 3D Body
 
 
 Used DCodes :
@@ -233,25 +188,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : SkayboardRev4.GM15
+Generating : Top Pad Master
+      File : SkayboardRev4.GPT
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-    D69
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : SkayboardRev4.GKO
-
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -288,20 +239,77 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : SkayboardRev4.GBO
+Generating : Bottom Courtyard
+      File : SkayboardRev4.GM21
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Courtyard
 
 
 Used DCodes :
-    D10
-    D67
-    D68
-    D69
     D70
-    D71
-    D72
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : SkayboardRev4.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : SkayboardRev4.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : SkayboardRev4.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D69
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : SkayboardRev4.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : SkayboardRev4.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : SkayboardRev4.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -351,35 +359,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : SkayboardRev4.GTO
+Generating : Top Layer
+      File : SkayboardRev4.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
     D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : SkayboardRev4.GM20
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : SkayboardRev4.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
 *************************************************************
 
