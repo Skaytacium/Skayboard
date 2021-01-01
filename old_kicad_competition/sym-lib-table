@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Skey)(type Legacy)(uri ${KIPRJMOD}/Skey.lib)(options "")(descr ""))
-)
