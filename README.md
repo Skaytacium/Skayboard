@@ -12,7 +12,9 @@ Group buy might happen in Feb due to these delays, also because I need my geekha
 
 ### Customizability
 
-**Skayboard is not very customizable.** It is not a board meant for someone who likes ISO Enter keys or no windows keys, nor does it have the option to change that. The reason why is not because it is any harder to implement but rather because its *Skayboard* and not meant for everyone. If you do like the layout, be sure to keep up with this repo for any further updates.
+#### Skayboard is not very customizable.
+
+It is not a board meant for someone who likes ISO Enter keys or no windows keys, nor does it have the option to change that. The reason why is not because it is any harder to implement but rather because its *Skayboard* and not meant for everyone. If you do like the layout, be sure to keep up with this repo for any further updates.
 
 ### Parts used
 
@@ -32,8 +34,10 @@ Most progress is documented here now, on this README, but if you have enquiries 
 
 ### Price
 
-**Skayboard is not a complete keyboard.** It is only the case, plate and PCB. You will have to buy switches and keycaps and any other accessories yourself. You will also have to solder the switches yourself.
+#### Skayboard is not a complete keyboard.
+
+It is only the case, plate and PCB. You will have to buy switches and keycaps and any other accessories yourself. You will also have to solder the switches yourself.
 
 As our current PCB Manufacturer doesn't offer LED soldering the way we want it and doesn't have the mentioned LEDs in stock, there will be seperate charges for underglow and per-key RGB.
 
-(This is subject to change, please don't consider this to be the final price.) The current price is about 50$ (without any LEDs) to 90$ (with per-key RGB and underglow).
+(**This is subject to change, please don't consider this to be the final price.**) The current price is about 50$ (without any LEDs) to 90$ (with per-key RGB and underglow).
