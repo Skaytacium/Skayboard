@@ -1,6 +1,6 @@
 # Skayboard
 
-## Skaytacium's epic custom layout with 5 marco keys. Aluminium plate and case. Underglow + per key RGB. Fully customizable with QMK.
+## Skaytacium's epic custom layout with 5 macro keys. Aluminium plate and case. Underglow + per key RGB. Fully customizable with QMK.
 
 ### Status
 
