@@ -8,7 +8,7 @@ Currently, rev4 has been scrapped not due to bad layout, but rather a better way
 
 Problem with that is, its a lot of manual work and I'm way too lazy to do it, might hand it over to NNNI.
 
-Group buy might happen in Feb due to these delays, also because I need my geekhack profile to be verified.
+Group buy might happen in Feb (yeah right, but sometime during June/July (hopefully)) due to these delays, also because I need my Geekhack profile to be verified.
 
 ### Customizability
 
