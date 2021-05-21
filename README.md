@@ -4,11 +4,9 @@
 
 ### Status
 
-Currently, rev4 has been scrapped not due to bad layout, but rather a better way to make the key components. An idea was rev4.5, which meant having the old key components, but using Excel magic to generate the pick and place and BOM. This would have been fine, but a better way to do it would be by creating a schematic for a key which contains the LED and the capacitors and diodes and all that.
+Jesus, we're already on revision 6 and a prototype isn't here. Well as I said before, June/July is the expected date for the group buy, but for the most part, I've been working on it quite a bit these few days. I'm hoping to order pretty soon, by that I mean like in the next few days, so prototypes pics should be coming out.
 
-Problem with that is, its a lot of manual work and I'm way too lazy to do it, might hand it over to NNNI.
-
-Group buy might happen in Feb (yeah right, but sometime during June/July (hopefully)) due to these delays, also because I need my Geekhack profile to be verified.
+Skayboard back from the dead epic return 2021 May!??!!?!??!??!?!?!
 
 ### Customizability
 
