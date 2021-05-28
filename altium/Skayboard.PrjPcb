@@ -129,23 +129,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ZHDLAUBF
 
 [Document6]
-DocumentPath=gen\Skayboard.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=Skayboard.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=src\schematics\Key.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -179,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBEMZCUN
 
-[Document9]
+[Document8]
 DocumentPath=src\schematics\SK6812.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -195,6 +178,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIYJMGYX
+
+[Document9]
+DocumentPath=gen\Skayboard.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Skayboard\Skayboard.nsx
