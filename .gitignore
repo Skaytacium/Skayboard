@@ -1,5 +1,13 @@
+# For NNNI
 gitbat
+
+# Not needed
 __Previews
 altium/History
+
+# Totally useless
 altium/Project*Logs*for*Skayboard
 altium/Project*Outputs*for*Skayboard
+
+# Testing
+test*
