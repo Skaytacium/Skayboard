@@ -4,9 +4,7 @@
 
 ### Status
 
-Jesus, we're already on revision 6 and a prototype isn't here. Well as I said before, June/July is the expected date for the group buy, but for the most part, I've been working on it quite a bit these few days. I'm hoping to order pretty soon, by that I mean like in the next few days, so prototypes pics should be coming out.
-
-Skayboard back from the dead epic return 2021 May!??!!?!??!??!?!?!
+_cough cough_, **_revision 7 cough_**
 
 ### Customizability
 
