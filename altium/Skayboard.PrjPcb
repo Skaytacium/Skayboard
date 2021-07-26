@@ -78,7 +78,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FVGAHEAU
 
 [Document3]
-DocumentPath=src\Skayboard.PcbDoc
+DocumentPath=src\SkayboardAgain.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -181,23 +181,6 @@ DocumentUniqueId=FIYJMGYX
 
 [Document9]
 DocumentPath=gen\Skayboard.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=src\test.pas
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3129,7 +3112,7 @@ ComponentLibIdentifierKind6=Library Name Only
 ComponentLibraryIdentifier6=Altium Content Vault
 ComponentDesignItemID6=CMP-1667-00004-1
 ComponentSymbolReference6=D-AK-2
-ComponentUpdate6=1
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name Only
 ComponentLibraryIdentifier7=Altium Content Vault
