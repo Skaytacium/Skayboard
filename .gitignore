@@ -11,3 +11,7 @@ altium/Project*Outputs*for*Skayboard
 
 # Testing
 test*
+
+# Build stuff
+*.zip
+*.rar

@@ -4,7 +4,7 @@
 
 ### Status
 
-_cough cough_, **_revision 7 cough_**
+Skayboard is done... (I mean like the PCB)
 
 ### Customizability
 
