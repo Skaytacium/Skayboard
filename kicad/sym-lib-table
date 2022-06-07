@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "YSX321SL")(type "Legacy")(uri "${KIPRJMOD}/lib/X322516MLB4SI.lib")(options "")(descr ""))
+  (lib (name "Skayboard")(type "KiCad")(uri "${KIPRJMOD}/inc/Skayboard.kicad_sym")(options "")(descr ""))
 )
