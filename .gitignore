@@ -1,17 +1,4 @@
-# For NNNI
-gitbat
+# Space wasters
 
-# Not needed
-__Previews
-History
-
-# Totally useless
-altium/Project*Logs*for*Skayboard
-altium/Project*Outputs*for*Skayboard
-
-# Testing
-test*
-
-# Build stuff
-*.zip
-*.rar
+kicad/Skayboard-backups
+kicad/fp-info-cache
