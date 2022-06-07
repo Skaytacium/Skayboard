@@ -1,39 +1,34 @@
 # Skayboard
 
-## Skaytacium's epic custom layout with 5 macro keys. Aluminium plate and case. Underglow + per key RGB. Fully customizable with QMK.
+## What?
 
-### Status
+Its **Skay**tacium's key**board**.
 
-Skayboard is done... (I mean like the PCB)
+## Why? (I get this one a lot)
 
-### Customizability
+Good question.
 
-#### Skayboard is not very customizable.
+## Layout?
 
-It is not a board meant for someone who likes ISO Enter keys or no windows keys, nor does it have the option to change that. The reason why is not because it is any harder to implement but rather because its *Skayboard* and not meant for everyone. If you do like the layout, be sure to keep up with this repo for any further updates.
+[Here](http://www.keyboard-layout-editor.com/##@_name=Skayboard&author=Skaytacium&background_name=Aluminium%20brushed%20black&style=background-image%2F:%20url('%2F%2Fbg%2F%2Fmetal%2F%2Faluminum%2F_texture1644.jpg')%2F%3B%3B&switchMount=cherry&pcb:true&plate:true%3B&@_c=%23544d4d&t=%23e6e6e6&fa@:0&:0&:0&:6%3B%3B&=Esc%0A~%0A%0A%60&_fa@:0&:0&:0&:2%3B%3B&=!%0A1%0A%0AF1&=%2F@%0A2%0A%0AF2&=%23%0A3%0A%0AF3&=$%0A4%0A%0AF4&=%25%0A5%0A%0AF5&=%5E%0A6%0A%0AF6&=%2F&%0A7%0A%0AF7&=*%0A8%0A%0AF8&=(%0A9%0A%0AF9&=)%0A0%0A%0AF10&=%2F_%0A-%0A%0AF11&=+%0A%2F=%0A%0AF12&_w:2%3B&=Backspace&=Insert%0A%0A%0APrtScrn&=Home%0A%0A%0AScLck&=PgUp%0A%0A%0APsBrk%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&=Delete&=End&=PgDn%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&_n:true%3B&=F&=G&=H&_n:true%3B&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter&_a:7%3B&=sk1&=sk2&=sk3%3B&@_a:4&w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_a:7%3B&=sk0&_a:4%3B&=%E2%86%91&_a:7%3B&=sk4%3B&@_a:4&w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=Alt&_t=%23ffffff&w:1.25%3B&=Win&_t=%23e6e6e6&w:1.25%3B&=Fn&_w:1.25%3B&=Ctrl&=%E2%86%90&=%E2%86%93&=%E2%86%92).
 
-### Parts used
+## Really, why?
 
-Skayboard uses SK6812 Mini-E LEDs for both, per-key RGB and underglow. This is due to multiple reasons, including having only one pin for LEDs therefore a cleaner PCB and also because their name starts with 'SK'.
+I couldn't find a keyboard which had this exact layout (some suggested a 60% + numpad, do you think I'm sensible?).  
+I also found the pre-existing PCBs too expensive and the open source ones had goofy layouts.  
+I'm jobless, stupid and I regret everything.
 
-Diodes used are 1N4148 SMD type diodes, capacitors are MLCC SMD. Skayboard is not meant for hand soldering (except for the switches) therefore it does not use 0603 components, rather uses 0402. If you are brave enough to solder that, make sure to send me pictures on my Discord (`Skaytacium#1337`).
+## And?
 
-An aluminium plate is used due to its sound profile and rigidity. Case is also made out of aluminium except for an engraved logo on the bottom.
+- The `sk` keys are macro keys.
+- It uses [QMK](https://qmk.fm/).
+- Uses SK6812ME LEDs, hand solder them if you want to, connection matrix [here](#connections) (because the name starts with SK).
++ The Skaytacium way to build one would be:
+  - C<sup>3</sup>Equalz Tangerines, light green (52g)
+  - 3mm aluminum plate
+  - Clear polycarbonate case (layered)
+- It took me 2 years to make this (check earliest commit) because of the global chip shortage and doomerism.
 
-### Prototype pictures
+## Details?
 
-Soon.
-
-### Progress updates
-
-Most progress is documented here now, on this README, but if you have enquiries or question, you can contact me on my Discord.
-
-### Price
-
-#### Skayboard is not a complete keyboard.
-
-It is only the case, plate and PCB. You will have to buy switches and keycaps and any other accessories yourself. You will also have to solder the switches yourself.
-
-As our current PCB Manufacturer doesn't offer LED soldering the way we want it and doesn't have the mentioned LEDs in stock, there will be seperate charges for underglow and per-key RGB.
-
-(**This is subject to change, please don't consider this to be the final price.**) The current price is about 50$ (without any LEDs) to 90$ (with per-key RGB and underglow).
+I'll write these once the prototype is here.
