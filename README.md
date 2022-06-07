@@ -22,7 +22,7 @@ I'm jobless, stupid and I regret everything.
 
 - The `sk` keys are macro keys.
 - It uses [QMK](https://qmk.fm/).
-- Uses SK6812ME LEDs, hand solder them if you want to, connection matrix [here](#connections) (because the name starts with SK).
+- Uses [SK6812 Mini-E](https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf) LEDs, hand solder them if you want to, connection matrix [here](#connections) (because the name starts with SK).
 + The Skaytacium way to build one would be:
   - C<sup>3</sup>Equalz Tangerines, light green (52g)
   - 3mm aluminum plate

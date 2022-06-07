@@ -1,4 +1,7 @@
 # Space wasters
-
 kicad/Skayboard-backups
 kicad/fp-info-cache
+
+# Autosaves
+\#auto_saved_files\#
+_autosave*
