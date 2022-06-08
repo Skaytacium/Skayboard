@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "YSX321SL")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "Skayboard")(type "KiCad")(uri "${KIPRJMOD}/inc/Skayboard.pretty")(options "")(descr ""))
 )
