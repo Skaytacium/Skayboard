@@ -2,6 +2,21 @@
 kicad/Skayboard-backups
 kicad/fp-info-cache
 
+# Gerber and drills, putting this in release
+kicad/Skayboard-*
+kicad/Skayboard.drl
+kicad/Skayboard.step
+kicad/kicad*
+
+# Useless logs and locks
+kicad/*.log
+kicad/*.lck
+
+# Useless other stuff
+kicad/*.py
+kicad/place_footprints.ini
+kicad/Skayboard.round-tracks-config
+
 # Autosaves
 \#auto_saved_files\#
 _autosave*

@@ -1,23 +1,138 @@
-(footprint "SK6812MINI-E" (version 20211014) (generator pcbnew)
-  (layer "F.Cu")
-  (tedit 0)
-  (attr through_hole exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "LED" (at 0 -2.54 unlocked) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 1089edef-8cd1-4d30-b3c8-b7d81109e4ba)
-  )
-  (fp_text value "SK6812MINI-E" (at 0 10.16 unlocked) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 7a81c875-cead-4ca8-a1c0-c1fc272f9b8d)
-  )
-  (fp_text user "${REFERENCE}" (at 0 11.66 unlocked) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 18c3cddc-4436-4258-ac68-5961ed4ddd94)
-  )
-  (fp_line (start -4.319831 1.137433) (end -4.319831 0.277433) (layer "F.SilkS") (width 0.12) (tstamp a40fe5b3-8cd1-4024-9463-afdc32033d6b))
-  (fp_rect (start -1.75 -1.45) (end 1.75 1.45) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp ed42eb57-a3ba-4cd8-bdeb-840df7def193))
-  (pad "1" smd rect (at 2.75 -0.7) (size 1.8 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e062054d-f3c1-4fb2-82e7-835bf57edb91))
-  (pad "2" smd rect (at 2.75 0.7) (size 1.8 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 478c8dea-aa60-4f40-975b-ee9777f135d9))
-  (pad "3" smd rect (at -2.75 0.7) (size 1.8 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e6b7d82e-ee55-48a5-8cb1-fb964be71fef))
-  (pad "4" smd rect (at -2.75 -0.7) (size 1.8 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7b4f98f6-a121-4e9e-b428-3e562f26d07d))
+(footprint "SK6812MINI-E"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "LED"
+		(at 0 -2.54 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1089edef-8cd1-4d30-b3c8-b7d81109e4ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SK6812MINI-E"
+		(at 0 10.16 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7a81c875-cead-4ca8-a1c0-c1fc272f9b8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SK6812MINI-E"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "739f793e-b9e8-4b05-86da-f4bec71edb28")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ec204b7-c7b1-48cc-921b-c8530eeace3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3666c5e5-9249-4dfa-9323-06e7e095c722")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -4.54183 1.183798)
+		(end -4.54183 0.323798)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a40fe5b3-8cd1-4024-9463-afdc32033d6b")
+	)
+	(fp_rect
+		(start -1.775 -1.575)
+		(end 1.775 1.575)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "bcc95e5a-06df-45e2-973e-54e2aa3d6e5c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 11.66 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "18c3cddc-4436-4258-ac68-5961ed4ddd94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 3.1242 -0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e062054d-f3c1-4fb2-82e7-835bf57edb91")
+	)
+	(pad "2" smd rect
+		(at 3.1242 0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "478c8dea-aa60-4f40-975b-ee9777f135d9")
+	)
+	(pad "3" smd rect
+		(at -3.1242 0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e6b7d82e-ee55-48a5-8cb1-fb964be71fef")
+	)
+	(pad "4" smd rect
+		(at -3.1242 -0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7b4f98f6-a121-4e9e-b428-3e562f26d07d")
+	)
+	(model "C:/Users/Sid/Projects/Skayboard/lib/SK6812MINI-E v1.step"
+		(offset
+			(xyz 1.6 -1.4 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 0)
+		)
+	)
 )
